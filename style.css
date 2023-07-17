@@ -1,0 +1,134 @@
+body {
+    background-color: whitesmoke;
+    border: 10px;
+}
+
+
+#one {
+    background-color: white;
+    height: 80px;
+    width: 100%;
+}
+
+#burger{
+    padding-top: 20px;
+    max-width: 100%;
+    width: auto;
+    height:auto;
+    /* align-self: auto; */
+}
+
+#two{
+    padding-top: 20px;
+}
+
+ h1{
+    color: rgba(30, 22, 69, 0.788);
+    margin: 10px 0px 25px;
+    /* font-size: 70px; */
+    line-height: 1;
+    font-weight: bold;
+    /* padding-left: 50px; */
+}
+
+ #three{
+    color:rgb(241, 44, 22);
+    /* margin-bottom: 23px; */
+    /* font-size: 70px; */
+    font-weight: bold;
+    /* padding-left: 50px; */
+}
+ p{
+
+    /* font-size: 20px; */
+    color: black;
+    /* line-height: 28px; */
+    margin-bottom: 20px;
+    /* font-weight: bold; */
+    /* padding-left: 50px; */
+}
+.btn-lg{
+    /* padding: 10px 20px; */
+    font-size: 10px;
+    border-radius: 10px;
+    /* position: absolute; */
+    /* left: 60px; */
+}
+
+
+#four{
+    background-image: url(./Images/frame4.jpg);
+}
+
+#about{
+    padding-top: 20px;
+    max-width: 100%;
+    width: auto;
+    height:auto;
+    /* align-self: auto; */
+}
+#five{
+    color: grey;
+    margin: 10px 0px 25px;
+    /* font-size: 70px; */
+    line-height: 1;
+    font-weight: bold;
+    /* padding-left: 50px; */
+    text-align: center;
+}
+
+#six{
+
+    /* font-size: 20px; */
+    color: black;
+    /* line-height: 28px; */
+    margin-bottom: 20px;
+    /* font-weight: bold; */
+    /* padding-left: 50px; */
+    text-align: center;
+}
+.card{
+    border-radius: 10px;
+}
+
+.card-title{
+text-align: center;
+font-weight: bolder;;
+}
+
+#seven{
+    color: grey;
+    margin: 10px 0px 25px;
+    /* font-size: 70px; */
+    line-height: 1;
+    font-weight: bold;
+    /* padding-left: 50px; */
+    text-align: center;
+}
+
+#eight{
+
+    /* font-size: 20px; */
+    color: black;
+    /* line-height: 28px; */
+    margin-bottom: 20px;
+    /* font-weight: bold; */
+    /* padding-left: 50px; */
+    text-align: center;
+}
+#nine{
+    /* padding-top: 20px; */
+    max-width: 100%;
+    width: auto;
+    height:auto;
+    /* align-self: auto; */
+}
+
+figcaption {
+    color: rgb(60, 55, 55);
+    padding: 2px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+  }
+
